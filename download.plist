@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.0.11/ipaInfo/ptag.ipa</string>
+                        <string>https://fucreator-templete.oss-cn-hangzhou.aliyuncs.com/ptag.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
